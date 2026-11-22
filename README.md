@@ -1,22 +1,24 @@
 # MyBrowser
 
+## APK 다운로드
+
+**[UI/UX 생성기 v0.2.0 프리뷰 APK 바로 다운로드](https://github.com/ChJNL/My_Browser/releases/download/v0.2.0-preview/UIUX-Generator-v0.2.0-preview.apk)** · [릴리스 상세 정보](https://github.com/ChJNL/My_Browser/releases/tag/v0.2.0-preview)
+
+앱 이름은 `개발용 UI/UX 생성기`입니다. **기존 MyBrowser v0.1.0 프리뷰와 패키지명 및 서명이 같아, 설치하면 기존 앱을 업데이트하여 덮어쓸 수 있습니다.** 기기 설치 및 동작은 아직 검증되지 않았습니다.
+
+- Android 8.0(API 26) 이상, ARM64·ARMv7·x86_64
+- SHA-256: `6a9f994c3da2ac450ce5c0a81c654f4943f085cc55f42c9dd5af220290aeae7c`
+- [이전 MyBrowser v0.1.0 프리뷰](https://github.com/ChJNL/My_Browser/releases/tag/v0.1.0-preview)
+
 ### GeckoView 기반 독립형 Android 웹 브라우저
 
 MyBrowser는 Mozilla의 GeckoView 엔진을 활용하여 개발하는 독립형 Android 브라우저입니다.
 
 기존 Chrome이나 Chromium 엔진에 의존하지 않고, Firefox와 동일한 Gecko 엔진 계열의 기술을 활용하여 웹사이트에 접속할 수 있는 독립적인 앱을 만드는 것을 목표로 합니다.
 
-## 프리뷰 APK
+APK를 설치하려면 Android에서 다운로드에 사용한 앱의 알 수 없는 앱 설치를 허용해야 할 수 있습니다. 프리뷰 패키지 `io.github.chjnl.mybrowser.preview`는 일반 배포 패키지와 이름이 달라 기존 일반 배포 앱을 업데이트하지 않습니다.
 
-[GitHub Releases](https://github.com/ChJNL/My_Browser/releases)에서 `MyBrowser-v0.1.0-preview.apk`를 내려받을 수 있습니다. 이 버전은 사전 배포본이며 기기 설치 및 동작은 아직 검증되지 않았습니다.
-
-- 패키지: `io.github.chjnl.mybrowser.preview`
-- 지원 환경: Android 8.0(API 26) 이상, ARM64·ARMv7·x86_64
-- SHA-256: `15f760cefd2792319f7c8466d4136be453eb5040fe0c13782825316dd60efeab`
-
-APK를 설치하려면 Android에서 다운로드에 사용한 앱의 알 수 없는 앱 설치를 허용해야 할 수 있습니다. 프리뷰 패키지는 일반 배포 패키지와 이름이 달라 기존 앱을 업데이트하지 않습니다.
-
-현재 저장소에는 이 APK의 앱 소스와 빌드 구성이 포함되어 있지 않습니다. 릴리스 태그는 APK와 일치하는 소스 버전을 보증하지 않습니다.
+현재 저장소에는 이 APK들의 앱 소스와 빌드 구성이 포함되어 있지 않습니다. 릴리스 태그는 APK와 일치하는 소스 버전을 보증하지 않습니다.
 
 ---
 
