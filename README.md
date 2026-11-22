@@ -6,6 +6,18 @@ MyBrowser는 Mozilla의 GeckoView 엔진을 활용하여 개발하는 독립형 
 
 기존 Chrome이나 Chromium 엔진에 의존하지 않고, Firefox와 동일한 Gecko 엔진 계열의 기술을 활용하여 웹사이트에 접속할 수 있는 독립적인 앱을 만드는 것을 목표로 합니다.
 
+## 프리뷰 APK
+
+[GitHub Releases](https://github.com/ChJNL/My_Browser/releases)에서 `MyBrowser-v0.1.0-preview.apk`를 내려받을 수 있습니다. 이 버전은 사전 배포본이며 기기 설치 및 동작은 아직 검증되지 않았습니다.
+
+- 패키지: `io.github.chjnl.mybrowser.preview`
+- 지원 환경: Android 8.0(API 26) 이상, ARM64·ARMv7·x86_64
+- SHA-256: `15f760cefd2792319f7c8466d4136be453eb5040fe0c13782825316dd60efeab`
+
+APK를 설치하려면 Android에서 다운로드에 사용한 앱의 알 수 없는 앱 설치를 허용해야 할 수 있습니다. 프리뷰 패키지는 일반 배포 패키지와 이름이 달라 기존 앱을 업데이트하지 않습니다.
+
+현재 저장소에는 이 APK의 앱 소스와 빌드 구성이 포함되어 있지 않습니다. 릴리스 태그는 APK와 일치하는 소스 버전을 보증하지 않습니다.
+
 ---
 
 ## 1. 프로젝트 소개
